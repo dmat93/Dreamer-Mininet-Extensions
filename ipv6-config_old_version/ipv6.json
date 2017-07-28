@@ -1,0 +1,40 @@
+{
+	"Subnet01":{"peo2","cer1"},
+	"Subnet02": {"peo2","cro4"},
+	"Subnet03": {"cro3","cro5"},
+	"Subnet04": {"peo2","cro5"},
+	"Subnet05": {"peo2","cro3"},
+	"Subnet06": {"peo6","cro3"},
+	"Subnet07": {"cro3","cro4"},
+	"Subnet08": {"peo6","cro4"},
+	"Subnet09": {"peo6","cro5"
+		"peo6": {
+			"ipv6": "fd3c:9f20:5d73:09::01/64",
+			"dev": "vi3"
+		},
+		"cro5": {
+			"ipv6": "fd3c:9f20:5d73:09::02/64",
+			"dev": "vi3"
+		}
+	},
+	"Subnet10": {
+		"peo6": {
+			"ipv6": "fd3c:9f20:5d73:0a::01/64",
+			"dev": "vi4"
+		},
+		"cer7": {
+			"ipv6": "fd3c:9f20:5d73:0a::02/64",
+			"dev": "cer7-eth1"
+		}
+	},
+	"Subnet11": {
+		"ctr8": {
+			"ipv6": "fd3c:9f20:5d73:0b::01/64",
+			"dev": "ctr8-eth1"
+		},
+		"cro3": {
+			"ipv6": "fd3c:9f20:5d73:0b::02/64",
+			"dev": "vi5"
+		}
+	}
+}
